@@ -64,9 +64,6 @@ MongoClient.connect(url, function(err, db) {
 
 /*
 Create Document using ID
-
-
-app.post('/abc/:name', function(req, res) {}
   
  
 */
